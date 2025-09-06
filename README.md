@@ -8,7 +8,7 @@ Features:
 
 ✅ Pixel-perfect UI inspired by Blinkit
 
-✅ Fully responsive (mobile, tablet, desktop)
+✅ Responsive (mobile, desktop)
 
 ✅ Built only with HTML & CSS (no JS, no frameworks)
 
